@@ -6,7 +6,8 @@ __pycache__/
 *.pyc
 
 # Logs
-logs/*.log
+logs/
+*.log
 
 # VS Code
 .vscode/
@@ -20,3 +21,13 @@ Thumbs.db
 
 # Temporary Files
 *.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build files
+dist/
+build/
+
+# ZIP files
+*.zip
