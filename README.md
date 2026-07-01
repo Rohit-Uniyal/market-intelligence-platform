@@ -279,7 +279,7 @@ GitHub:
 https://github.com/Rohit-Uniyal
 
 LinkedIn:
-(Add your LinkedIn profile link)
+linkedin.com/in/rohituniyal
 
 ---
 
